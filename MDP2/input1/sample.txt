@@ -1,0 +1,500 @@
+1	ebook complete shakespeare works gutenberg project william 
+2	shakespeare william 
+3	anyone anywhere ebook cost use 
+4	restrictions whatsoever copy almost give 
+5	included license terms under re gutenberg project use 
+6	online www ebook org gutenberg 
+7	details copyrighted ebook below gutenberg project 
+8	guidelines file copyright follow please 
+9	title complete shakespeare works william 
+10	author shakespeare william 
+11	2011 september posting 100 ebook date 1 
+12	1994 january release date 
+13	language english 
+14	encoding ascii character set 
+15	ebook start complete shakespeare works gutenberg project william 
+16	produced future inc library world 
+17	100th presented file etext gutenberg project 
+18	cooperation presented inc library world 
+19	cdroms future library shakespeare gutenberg project 
+20	releases etexts placed domain public often 
+21	shakespeare 
+22	implications certain read copyright etext 
+23	version complete works william electronic 
+24	1990 1993 inc library copyright shakespeare world 
+25	benedictine illinois college etext provided gutenberg project 
+26	machine readable permission copies electronic 
+27	1 others distributed copies 
+28	personal used 2 distributed use 
+29	commercially prohibited commercial includes distribution 
+30	membership download charges service 
+31	cooperate proud library gutenberg project world 
+32	presentation complete shakespeare works william 
+33	education however reading entertainment 
+34	shareware domain public neither library under nor 
+35	presentation future conditions charges 
+36	encouraged material access 
+37	allowed anyone charges give 
+38	print small complete shakespeare 
+39	version complete works william electronic 
+40	1993 1990 inc library copyright shakespeare world 
+41	etext provided gutenberg project 
+42	illinois benedictine college permission 
+43	etexts unlike tm etext gutenberg project since many 
+44	materials methods protected copyright since 
+45	copy reputation effect project right use s 
+46	distribute limited laws copyright 
+47	statement print conditions small 
+48	license 1 
+49	encouraged distribute electronic 
+50	machine readable etext copies 
+51	personal 2 1 others use 
+52	prohibited commercially commercial used distributed 
+53	download includes distribution charges service 
+54	membership 
+55	b license conditions honor subject 
+56	provisions replacement refund print small 
+57	statement exact distribute etext copies 
+58	statement including print small copies 
+59	resulting proprietary compressed including form 
+60	processing software hypertext word 
+61	either 
+62	displayed clearly readable etext does 1 
+63	characters intended contain those 
+64	asterisk tilde author although work 
+65	punctuation _ underline characters convey used 
+66	additional characters author intended used 
+67	indicate hypertext links 
+68	convertible readily reader etext 2 
+69	ebcdic equivalent ascii expense form plain 
+70	program displays instance case etext 
+71	processors word 
+72	agree provide 3 request 
+73	additional expense copy fee cost plain etext 
+74	ascii 
+75	disclaimer warranty damages limited 2 
+76	incomplete defect contain form etext 
+77	data transcription inaccurate errors corrupt copyright 
+78	disk virus damaged infringement computer defective 
+79	codes equipment damage read cannot 
+80	described replacement refund below right 
+81	party receive etext project 
+82	disclaims liability tm etext gutenberg project 
+83	legal expenses costs damages fees including 
+84	liability remedies negligence strict under 
+85	warranty limited including contract breach 
+86	incidental punitive consequential damages indirect even 
+87	possibility damages notice give 
+88	90 defect discover receiv days etext within 
+89	ing refund paid receive money 
+90	explanatory sending note within 
+91	physical received person 
+92	medium note person return 
+93	alternatively replacement copy choose give 
+94	electronically received choose person 
+95	alternatively opportunity receive second give 
+96	electronically 
+97	otherwise etext provided 
+98	implied warranties express kind 
+99	medium including etext 
+100	merchantability warranties fitness limited 
+101	disclaimers states allow particular purpose 
+102	consequen exclusion implied warranties limitation 
+103	exclusions tial disclaimers damages above 
+104	legal apply rights 
+105	indemnity indemnify 3 project hold 
+106	directors lia agents members harmless officers 
+107	bility legal fees including expense arise cost 
+108	indirectly directly following 
+109	alteration b distribution etext cause 
+110	modification defect addition c etext 
+111	4 don want money send even t 
+112	dedicated increasing number gutenberg project 
+113	licensed domain freely public works distributed 
+114	gratefully accepts form machine readable project 
+115	scanning machines ocr software contributions money 
+116	licenses etexts domain royalty public free copyright 
+117	pro whatever paid money else 
+118	ject association illinois benedictine college gutenberg 
+119	kramer attorney b print small charles 
+120	internet 72600 212 254 tel 5093 2026 compuserve com 
+121	__ print small complete shakespeare 
+122	08 12 93 print v small 
+123	version complete works william electronic 
+124	1990 1993 inc library copyright shakespeare world 
+125	illinois benedictine college etext provided gutenberg project 
+126	machine readable permission copies electronic 
+127	1 others distributed copies 
+128	personal used 2 distributed use 
+129	commercially prohibited commercial includes distribution 
+130	membership download charges service 
+131	1609 
+132	sonnets 
+133	shakespeare william 
+134	1 
+135	increase creatures fairest desire 
+136	thereby rose beauty die might s 
+137	riper decease 
+138	memory heir tender might bear 
+139	contracted bright thine eyes 
+140	substantial fuel flame feed self light st s 
+141	famine abundance making lies 
+142	foe cruel self sweet 
+143	ornament fresh world art s 
+144	gaudy herald spring 
+145	buriest bud content thine within 
+146	niggarding churl mak waste tender st 
+147	glutton pity else world 
+148	due eat grave world thee s 
+149	2 
+150	winters besiege forty brow 
+151	trenches dig deep field beauty s 
+152	gazed livery proud youth s 
+153	tattered weed held small worth 
+154	asked beauty lies being 
+155	lusty treasure days 
+156	sunken deep thine within eyes 
+157	thriftless eating praise shame 
+158	deserved praise beauty use s 
+159	couldst child answer fair mine 
+160	sum excuse count 
+161	proving succession beauty thine 
+162	new art 
+163	warm feel cold blood st 
+164	3 
+165	viewest glass face look tell 
+166	form face another 
+167	renewest repair fresh whose 
+168	unbless beguile dost mother world 
+169	uneared womb whose fair 
+170	tillage disdains husbandry 
+171	tomb fond 
+172	posterity stop self love 
+173	glass mother art thee s 
+174	prime april lovely calls back 
+175	windows age through shalt thine 
+176	wrinkles despite golden 
+177	remembered live 
+178	image single dies thine die thee 
+179	4 
+180	loveliness unthrifty spend dost why 
+181	legacy self beauty s 
+182	bequest lend gives nature doth s 
+183	frank lends free those being 
+184	niggard beauteous abuse dost why 
+185	largess bounteous given give thee 
+186	profitless usurer dost use why 
+187	sums sum canst live 
+188	traffic having self alone 
+189	deceive self dost sweet 
+190	calls nature gone thee 
+191	acceptable audit canst leave 
+192	tombed unused beauty thee 
+193	executor lives used th 
+194	5 
+195	frame hours work gentle those 
+196	gaze dwell lovely eye doth 
+197	tyrants same play 
+198	unfair excel fairly doth 
+199	resting leads summer 
+200	confounds hideous winter 
+201	checked frost sap lusty leaves quite gone 
+202	snowed bareness beauty er o 
+203	distillation summer left s 
+204	liquid pent glass prisoner walls 
+205	bereft effect beauty s 
+206	remembrance nor 
+207	distilled flowers winter meet though 
+208	leese substance lives show still sweet 
+209	6 
+210	deface ragged winter hand s 
+211	distilled summer ere thee 
+212	vial treasure place sweet 
+213	killed treasure self beauty ere s 
+214	usury forbidden use 
+215	happies loan willing pay those 
+216	breed self another thee s 
+217	happier ten times 
+218	happier ten times self art 
+219	refigured ten times thine thee 
+220	depart shouldst death 
+221	posterity leaving living thee 
+222	willed self fair art 
+223	worms conquest heir thine death s 
+224	7 
+225	orient lo gracious light 
+226	lifts burning each under eye head 
+227	appearing homage sight new doth 
+228	serving sacred looks majesty 
+229	climbed steep hill heavenly having 
+230	resembling middle strong age youth 
+231	adore mortal looks beauty still 
+232	pilgrimage attending golden 
+233	highmost pitch car weary 
+234	reeleth feeble age 
+235	converted duteous fore eyes 
+236	tract low another look 
+237	noon going self 
+238	unlooked diest unless son 
+239	8 
+240	sadly music hear st why 
+241	sweets delights joy war 
+242	gladly receiv lov st why 
+243	annoy receiv pleasure else thine st 
+244	tuned concord sounds true 
+245	unions offend married ear thine 
+246	confounds sweetly chide thee 
+247	singleness shouldst parts bear 
+248	string mark husband another sweet 
+249	ordering mutual strikes each 
+250	resembling sire happy child mother 
+251	pleasing sing note 
+252	speechless seeming song many whose being 
+253	single sings prove wilt none thee 
+254	9 
+255	wet widow eye fear s 
+256	consum single self life st 
+257	issueless hap ah shalt die 
+258	makeless wail wife world thee 
+259	widow weep still world 
+260	behind form left hast thee 
+261	private widow keep 
+262	shape children husband mind eyes s 
+263	unthrift spend world look doth 
+264	enjoys shifts place still world 
+265	waste beauty end world hath s 
+266	destroys unused user kept 
+267	sits toward bosom others love 
+268	commits murd rous shame himself 
+269	10 
+270	deny shame bear st love 
+271	unprovident self art 
+272	beloved grant wilt many art 
+273	evident lov none st 
+274	possessed murd rous hate art 
+275	conspire stick gainst self st 
+276	ruinate roof seeking beauteous 
+277	repair chief desire 
+278	change mind thought o 
+279	lodged fairer hate gentle love 
+280	presence gracious kind 
+281	hearted least self prove kind 
+282	self another love thee 
+283	beauty thine live still thee 
+284	11 
+285	wane fast grow shalt st 
+286	departest thine 
+287	youngly bestow fresh blood st 
+288	convertest mayst youth thine call 
+289	increase herein wisdom lives beauty 
+290	decay folly cold age without 
+291	minded cease times 
+292	threescore year world 
+293	store nature whom those hath 
+294	barrenly featureless harsh perish rude 
+295	endowed gave whom best look thee 
+296	bounteous cherish bounty gift shouldst 
+297	carved thereby meant seal thee 
+298	print copy shouldst die 
+299	12 
+300	tells clock count 
+301	sunk hideous brave night 
+302	violet prime past behold 
+303	silvered curls sable white er o 
+304	lofty trees barren leaves 
+305	erst canopy herd heat 
+306	sheaves girded summer green s 
+307	bristly bier borne beard white 
+308	question beauty 
+309	wastes among 
+310	beauties sweets forsake themselves since 
+311	grow fast others die 
+312	scythe defence gainst s 
+313	breed takes brave save hence thee 
+314	13 
+315	self love o 
+316	longer self yours live 
+317	prepare coming end against 
+318	semblance sweet give 
+319	lease beauty hold 
+320	determination find 
+321	decease self s 
+322	issue form bear sweet 
+323	lets decay fall house fair 
+324	uphold husbandry might honour 
+325	stormy gusts winter against s 
+326	eternal barren rage cold death s 
+327	unthrifts dear none love o 
+328	son father 
+329	14 
+330	judgement stars pluck 
+331	astronomy methinks 
+332	luck evil tell 
+333	dearths seasons plagues quality 
+334	minutes brief fortune nor tell 
+335	pointing rain thunder wind each 
+336	princes 
+337	predict oft find heaven 
+338	derive knowledge thine eyes 
+339	constant stars read art 
+340	thrive beauty together truth 
+341	convert store wouldst self 
+342	prognosticate else thee 
+343	date doom beauty truth end s 
+344	15 
+345	consider grows 
+346	perfection moment holds 
+347	presenteth huge stage nought shows 
+348	influence comment whereon secret stars 
+349	plants increase perceive men 
+350	checked cheered sky self same even 
+351	decrease vaunt sap youthful height 
+352	memory brave wear state 
+353	inconstant conceit stay 
+354	sets rich sight youth 
+355	debateth wasteful decay 
+356	sullied change youth night 
+357	war love 
+358	engraft takes new 
+359	16 
+360	mightier wherefore 
+361	tyrant bloody war 
+362	fortify decay self 
+363	rhyme barren blessed means 
+364	top hours happy stand 
+365	unset gardens maiden many 
+366	flowers virtuous living wish bear 
+367	liker painted counterfeit 
+368	lines repair life 
+369	pencil pupil pen s 
+370	inward outward neither worth fair nor 
+371	self live eyes men 
+372	keeps self still give 
+373	skill drawn live sweet 
+374	17 
+375	verse believe 
+376	filled deserts high 
+377	tomb knows though heaven 
+378	hides shows parts half life 
+379	write beauty eyes 
+380	numbers graces number fresh 
+381	poet age lies 
+382	touched touches earthly faces heavenly ne er 
+383	yellowed papers age 
+384	scorned less truth tongue men 
+385	termed rights poet rage true s 
+386	stretched metre antique song 
+387	alive child yours 
+388	rhyme twice live 
+389	18 
+390	compare summer thee s 
+391	temperate lovely art 
+392	darling buds winds rough shake 
+393	lease date summer short hath s 
+394	shines sometime hot eye heaven 
+395	dimmed complexion often gold 
+396	declines sometime fair 
+397	untrimmed changing chance course nature s 
+398	fade eternal summer 
+399	ow possession lose fair nor st 
+400	brag wand shade rest death nor 
+401	lines eternal grow st 
+402	breathe eyes men 
+403	gives lives life thee 
+404	19 
+405	paws devouring blunt lion s 
+406	brood devour earth sweet 
+407	jaws tiger keen fierce teeth pluck s 
+408	phoenix lived burn blood 
+409	seasons fleet sorry glad st 
+410	footed whate swift wilt er 
+411	fading sweets wide world 
+412	crime heinous forbid thee 
+413	carve brow hours fair love o s 
+414	antique lines pen draw thine nor 
+415	untainted allow course 
+416	succeeding pattern beauty men s 
+417	despite worst wrong 
+418	verse young live love 
+419	20 
+420	painted nature woman face hand s 
+421	passion mistress hast master 
+422	acquainted gentle woman heart s 
+423	shifting fashion change women false s 
+424	rolling theirs bright less false eye 
+425	gazeth gilding whereupon object 
+426	hues controlling hue 
+427	amazeth steals souls women eyes men s 
+428	created wert woman 
+429	doting wrought fell nature till thee 
+430	defeated addition thee 
+431	adding purpose 
+432	pricked pleasure women since thee s 
+433	treasure use mine love s 
+434	21 
+435	muse 
+436	stirred verse painted beauty 
+437	ornament self use heaven doth 
+438	rehearse fair doth 
+439	couplement compare making proud 
+440	gems moon rich sun sea earth s 
+441	april flowers rare born things s 
+442	rondure hems huge air heaven s 
+443	write truly true love o 
+444	believe fair love 
+445	bright child mother though s 
+446	candles fixed air gold those heaven s 
+447	hearsay 
+448	sell praise purpose 
+449	22 
+450	persuade glass 
+451	date youth 
+452	furrows behold thee s 
+453	expiate days death look 
+454	cover beauty doth thee 
+455	seemly raiment heart 
+456	breast thine live doth 
+457	elder art 
+458	wary thyself therefore love o 
+459	self thee 
+460	chary bearing keep heart 
+461	faring babe tender nurse ill 
+462	presume slain heart mine 
+463	gav back thine st give 
+464	23 
+465	unperfect actor stage 
+466	beside put part fear 
+467	replete fierce rage 
+468	weakens abundance strength whose heart s 
+469	forget trust fear 
+470	rite ceremony perfect love s 
+471	decay strength seem mine love s 
+472	ercharged burthen might mine love o s 
+473	eloquence looks o 
+474	presagers dumb speaking breast 
+475	recompense plead look love 
+476	expressed tongue hath 
+477	silent writ learn read hath love o 
+478	belongs fine wit eyes hear love s 
+479	24 
+480	stelled played painter eye mine hath 
+481	table form beauty heart s 
+482	frame held wherein body tis 
+483	perspective painter best art s 
+484	painter skill through 
+485	pictured image lies find true 
+486	shop hanging bosom still s 
+487	glazed windows thine eyes hath 
+488	turns done eyes 
+489	shape drawn thine eyes mine 
+490	windows breast sun through 
+491	peep delights gaze therein thee 
+492	cunning want grace eyes art 
+493	draw heart 
+494	25 
+495	stars favour those 
+496	titles boast public proud honour 
+497	bars triumph whilst fortune whom 
+498	unlooked joy honour 
+499	favourites spread leaves princes fair 
+500	marigold sun eye s
