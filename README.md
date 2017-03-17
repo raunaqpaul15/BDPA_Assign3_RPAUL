@@ -131,7 +131,7 @@ The text file generated is in the following format:
 5	included license terms under re gutenberg project use it of the 
 6	online www ebook org gutenberg at or this with 
 ```
-![Alt text](https://www.dropbox.com/home?preview=allpairwise.JPG "preproc")
+![alt tag](https://github.com/raunaqpaul15/BDPA_Assign3_RPAUL/blob/master/MDP2/preprocessing.JPG)
 
 ## 2. SET SIMILARITY JOIN ( Using ALL PAIR WISE Comparisons) 
 
@@ -332,7 +332,7 @@ The Main output file has the following values:
 ```
 
 
-![Alt text](https://www.dropbox.com/home?preview=preprocessing.JPG "preproc")
+![alt tag](https://github.com/raunaqpaul15/BDPA_Assign3_RPAUL/blob/master/MDP2/allpairwise.JPG)
 
 
 
