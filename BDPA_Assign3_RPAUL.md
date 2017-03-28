@@ -1,5 +1,5 @@
-# BDPA_Assign3_RPAUL
-Assignment 3 of Hadoop Under Massive Data Processing Course At Centrale Supelec, Spring 2017
+# BDPA_Assign2_RPAUL
+Assignment 2 of Hadoop Under Massive Data Processing Course At Centrale Supelec, Spring 2017
 
 
 #MASSIVE DATA PROCESSING ASSIGNMENT III
